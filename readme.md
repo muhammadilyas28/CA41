@@ -1,7 +1,7 @@
 A simple and intuitive To-Do App to help you stay organized.
 
 <!-- ![License](https://github.com/Muddassir1171/sampleTest/blob/master/LICENSE) -->
-[License](https://camo.githubusercontent.com/6552afb9038154d801c50b6e55a76db78a6787a8d6e2b5252a44864503c52887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667)
+![License](https://camo.githubusercontent.com/6552afb9038154d801c50b6e55a76db78a6787a8d6e2b5252a44864503c52887/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4d49542d626c75652e737667)
 ![Alt text Gif image](./a.gif)
 
 - Introduction
