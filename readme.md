@@ -7,9 +7,11 @@ A simple and intuitive To-Do App to help you stay organized.
 ![Alt text Gif image](./a.gif)
 
 - [Introduction](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#introduction)
-- Features
+  
+- [Features](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#feature)
+  
 - Installation
-- Usage
+- [Usage](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#usage)
 - Screenshots
 - Contributing
 - License
