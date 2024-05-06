@@ -21,3 +21,41 @@ Feature
 - Delete tasks.
 - Simple and intuitive user interface
 
+Installation
+
+To install the To-Do App, follow these steps:
+1. Clone the repositry:
+   
+   ```Markdown
+   $ git clone https://github.com/Muddassir1171/todo-app.git
+   ```
+2. Navigate to the project directory:
+   
+   ```Markdown
+   console.log($ cd todo-app)
+   ```
+   
+3. Install dependencies:
+   ```Markdown
+   console.log($ npm install)
+   ```
+Usage
+---
+Explain how to use your project. Provide examples, code snippets, and screenshots if necessary. Make it easy for users to get started.
+
+```bash
+$ npm start
+```
+Contributing
+---
+Encourage contributions to your project. Explain how others can contribute, whether it's through bug reporting, feature suggestions, or code contributions.
+
+License
+---
+State the license for your project. Include a link to the full license file if applicable.
+
+This project is licensed under the [Alt MIT License](https://opensource.org/license/mit)
+
+Acknowledgements
+---
+Acknowledge any individuals, organizations, or resources that have contributed to your project. This is also a good place to thank contributors.
