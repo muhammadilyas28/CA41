@@ -10,7 +10,7 @@ A simple and intuitive To-Do App to help you stay organized.
   
 - [Features](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#feature)
   
-- Installation
+- [Installation](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#installation)
 - [Usage](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#usage)
 - [Using](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#usage)
 - [Contributing](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#usage)
