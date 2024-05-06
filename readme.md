@@ -26,9 +26,9 @@ Feature
 - Mark tasks as complete.
 - Edit existing tasks.
 - Delete tasks.
-- Simple and intuitive user interface
+- Simple and intuitive user interface.
 
-Installation
+#Installation
 
 To install the To-Do App, follow these steps:
 1. Clone the repositry:
