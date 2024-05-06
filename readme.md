@@ -12,9 +12,9 @@ A simple and intuitive To-Do App to help you stay organized.
   
 - Installation
 - [Usage](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#usage)
-- Screenshots
-- Contributing
-- License
+- [Using](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#usage)
+- [Contributing](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#usage)
+- [License](https://github.com/muhammadilyas28/CA41/blob/master/readme.md#usage)
   
 Introduction
 ---
@@ -28,7 +28,8 @@ Feature
 - Delete tasks.
 - Simple and intuitive user interface.
 
-#Installation
+Installation
+---
 
 To install the To-Do App, follow these steps:
 1. Clone the repositry:
