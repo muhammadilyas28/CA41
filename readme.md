@@ -1,4 +1,6 @@
 A simple and intuitive To-Do App to help you stay organized.
+
+![License](https://github.com/Muddassir1171/sampleTest/blob/master/LICENSE)
 ![Alt text Gif image](./a.gif)
 
 - Introduction
